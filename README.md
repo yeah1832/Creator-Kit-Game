@@ -9,8 +9,6 @@ https://learn.unity.com/project/keurieiteo-kiteu-fps
 
 * 무기 바꾸기
 
-<br/>
-
 ![gif11](https://user-images.githubusercontent.com/29669560/160354490-0750c11b-94ee-44a4-b045-b3595098e879.gif)
 
 <br/>
