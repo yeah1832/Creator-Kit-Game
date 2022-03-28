@@ -15,7 +15,6 @@ https://learn.unity.com/project/keurieiteo-kiteu-fps
 
 
 * 몬스터 제거
-<br/>
  
 ![gif11](https://user-images.githubusercontent.com/29669560/160354823-ea25c7ed-4393-41b0-9bf9-4a816a7673bb.gif)
 
@@ -24,15 +23,11 @@ https://learn.unity.com/project/keurieiteo-kiteu-fps
 
 * 열쇠 주워서 잠긴 문 열기
 
-<br/>
-
 ![gif12](https://user-images.githubusercontent.com/29669560/160355137-b5532ccf-fe3b-4de5-96cf-e0e1ca7f579f.gif)
 
 <br/>
 
 * End Point 도착
-
-<br/>
 
 ![gif13](https://user-images.githubusercontent.com/29669560/160355177-56c26abb-8e66-49a0-ac81-d1ffdd1b524d.gif)
 
